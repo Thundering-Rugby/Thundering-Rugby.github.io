@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: #b30000;
+	background: #b3b3ff;
   font: 18px/1.4 $helvetica;
-  color: #ffffff;
+  color: $darkGray;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #730099;
+  color: #006622;
   font-weight: bold;
 
   line-height: 1.7;
