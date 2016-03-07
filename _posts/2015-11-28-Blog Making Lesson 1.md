@@ -2,7 +2,7 @@
 title: Blog Making Lesson 1
 layout: post
 author: rory.collins
-permalink: /untitled-document/
+permalink: /blog-making-lesson-1/
 source-id: 1krsDCFXM6wLSzqTDt0R8pAczqDXQJVBfUY_zMNahrNI
 published: true
 ---
