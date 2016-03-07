@@ -70,11 +70,18 @@ p {
 
 a {
   color: $blue;
+  
   text-decoration: none;
 	cursor: pointer;
+	
   &:hover, &:active {
     color: $blue;
   }
+}
+
+a:visited {
+    text-decoration: none;
+    color: #ff9933;
 }
 
 ul, ol {
