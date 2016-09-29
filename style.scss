@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background-image: url("http://orig01.deviantart.net/5208/f/2015/035/6/a/nightcrawler_1_by_dragonitearmy-d8gqvwf.jpg");     #595959;
-  font: 18px/1.4 $helvetica;
-  color: #ff9933;
+	background-image: url("http://orig01.deviantart.net/5208/f/2015/035/6/a/nightcrawler_1_by_dragonitearmy-d8gqvwf.jpg");
+    	background-repeat: no-repeat;
+    	background-position: right top;
+    	background-attachment: fixed;
+  
 }
 
 .container {
