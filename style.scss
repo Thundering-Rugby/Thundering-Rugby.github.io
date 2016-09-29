@@ -26,7 +26,15 @@ body {
     color: #3385ff;
 }
 
-.container {
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
