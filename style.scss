@@ -26,12 +26,12 @@ body {
     color: #3385ff;
 }
 
-table {
-    width: 100%;
+ table {
+    border-collapse: collapse;
 }
 
-th {
-    height: 50px;
+table, th, td {
+    border: 1px solid black;
 }
 
 container {
