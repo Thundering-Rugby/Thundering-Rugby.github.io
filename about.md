@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Oh wow! You actually looked at this. Well... there's not very much to say really... soooo, hi ther, I'm ginger.
+Oh wow! You actually looked at this. Well... there's not very much to say really... soooo, hi there, I'm ginger.
 
 ### More Information
 
