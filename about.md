@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is a blog on my IT lessons on DCGS, which is constantly having backround/css changes to improve it
+Oh wow! You actually looked at this. Well... there's not very much to say really... soooo, hi ther, I'm ginger.
 
 ### More Information
 
-I am a total nerd, but play rugby and a teensy weensy bit of football, I enjoy Marvel, especially X-Men. 
+Na na na na na na na na BATMAN!!! Oh snap I reveqaled my secret identity
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Don't try, I'm antisocial.
