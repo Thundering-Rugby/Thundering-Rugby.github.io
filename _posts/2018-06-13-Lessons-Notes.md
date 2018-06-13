@@ -71,5 +71,7 @@ HEX - base 16
 </table>
 
 
-Overflow - a computer can only handle 8 bits, if there is a 9th bit, it is called a one-bit overflow
+Overflow - a computer can only handle 8 bits, if there is a 9th bit, it is called a one-bit overflow.
+
+Addition with Binary - Same as decimal addition, but instead of carrying one when you get to 10, you carry one when you get to 2 (10).
 
