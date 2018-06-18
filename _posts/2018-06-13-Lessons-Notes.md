@@ -1,5 +1,5 @@
 ---
-title: Lessons Notes HEX,Binary and Decimal
+title: Lessons Notes
 layout: post
 author: rory.collins
 permalink: /lessons-notes/
