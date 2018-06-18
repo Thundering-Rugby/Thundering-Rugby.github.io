@@ -1,5 +1,5 @@
 ---
-title: Lessons Notes - HEX, Binary and Decimal
+title: Lessons Notes HEX,Binary and Decimal
 layout: post
 author: rory.collins
 permalink: /lessons-notes/
@@ -73,5 +73,13 @@ HEX - base 16
 
 Overflow - a computer can only handle 8 bits, if there is a 9th bit, it is called a one-bit overflow.
 
-Addition with Binary - Same as decimal addition, but instead of carrying one when you get to 10, you carry one when you get to 2 (10).
+Addition with Binary - Same as decimal addition, but instead of carrying one when you get to 10, you carry one when you get to 2 (10 in binary).
+
+1001010 x 2 = 1001010 shifted one to the left, so 10010100. This is a binary shift. This works in reverse for division.
+
+In an 8bit data set there is a maximum of 256 'things'. 
+
+1.3869205 x 10⁷. This is called standard form in decimal, but in binary it is called a floating point.
+
+In an ascii table, there is 128 possibilities, depending on the machine it is linked to, so it could be colour, letters or saturation.
 
