@@ -77,9 +77,31 @@ Addition with Binary - Same as decimal addition, but instead of carrying one whe
 
 1001010 x 2 = 1001010 shifted one to the left, so 10010100. This is a binary shift. This works in reverse for division.
 
-In an 8bit data set there is a maximum of 256 'things'. 
+In an 8bit data set there is a maximum of 256 'things'.  In a 16bit system it is 65536 ‘things’. In 32 it is 4294967296 ‘things’. In a modern 64bit system there is 1.844674407 x 10¹⁹ ‘things’.
 
 1.3869205 x 10⁷. This is called standard form in decimal, but in binary it is called a floating point.
 
 In an ascii table, there is 128 possibilities, depending on the machine it is linked to, so it could be colour, letters or saturation.
+
+8bits = 1B
+
+1024B = 1kB
+
+1024kB = 1mB
+
+1024mB = 1GB
+
+1024GB = 1TB
+
+1024TB = 1PB
+
+1024PB = 1Exa
+
+1024Exa = 1Zetta
+
+1024Zetta = 1Yotta
+
+1Yottabytes = 1208925820000000000000000bits
+
+Flop = floating point operations, computers run on peta- or teraflops
 
