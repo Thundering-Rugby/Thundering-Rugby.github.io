@@ -79,7 +79,7 @@ Addition with Binary - Same as decimal addition, but instead of carrying one whe
 
 In an 8bit data set there is a maximum of 256 'things'.  In a 16bit system it is 65536 ‘things’. In 32 it is 4294967296 ‘things’. In a modern 64bit system there is 1.844674407 x 10¹⁹ ‘things’.
 
-1.3869205 x 10⁷. This is called standard form in decimal, but in binary it is called a floating point.
+1.3869205 x 10⁷. This is called standard form in decimal, but in binary it is called a floating point. Places beyond the float point represents ½, ¼ , ⅛ etc. There is a degree of inaccuracy, as to make a third, you need to have ¼ , then 0 ⅛s, and then 1 recurring.  
 
 In an ascii table, there is 128 possibilities, depending on the machine it is linked to, so it could be colour, letters or saturation.
 
