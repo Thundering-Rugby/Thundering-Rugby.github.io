@@ -83,6 +83,8 @@ In an 8bit data set there is a maximum of 256 'things'.  In a 16bit system it is
 
 In an ascii table, there is 128 possibilities, depending on the machine it is linked to, so it could be colour, letters or saturation.
 
+![image alt text]({{ site.url }}/public/OSCxkfidNT2v8ikq2VZ2FQ_img_0.png)
+
 8bits = 1B
 
 1024B = 1kB
