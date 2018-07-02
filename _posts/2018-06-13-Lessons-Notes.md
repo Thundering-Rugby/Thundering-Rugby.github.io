@@ -1,5 +1,5 @@
 ---
-title: Lessons Notes
+title: HEX, Binary and Decimal
 layout: post
 author: rory.collins
 permalink: /lessons-notes/
@@ -95,7 +95,7 @@ In an ascii table, there is 128 possibilities, depending on the machine it is li
 
 1024GB = 1TB
 
-1024TB = 1PB
+1024 B = 1PB
 
 1024PB = 1Exa
 
@@ -103,7 +103,15 @@ In an ascii table, there is 128 possibilities, depending on the machine it is li
 
 1024Zetta = 1Yotta
 
-1Yottabytes = 1208925820000000000000000bits
+1Yottabyte = 1208925820000000000000000bits
 
-Flop = floating point operations, computers run on peta- or teraflops
+Flop = floating point operations, computers run on peta- or teraflops.
+
+HEX Addition
+
+4A
+
+* DC
+
+	126
 
