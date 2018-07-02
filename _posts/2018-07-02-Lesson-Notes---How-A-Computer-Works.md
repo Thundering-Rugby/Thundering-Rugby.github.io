@@ -1,5 +1,5 @@
 ---
-title: How A Computer Works
+title: GCSE - How A Computer Works
 layout: post
 author: rory.collins
 permalink: /lesson-notes---how-a-computer-works/
@@ -46,7 +46,7 @@ Peripherals - Keyboard, Mouse, Monitors, External Memory, Headsets, Printers etc
 
 SATA - Serial ATA - Allows storage mirroring. 
 
-**STANDARD - Hardware Based,  USB, HDMI etc. Physical Objects. **
+**STANDARD - Hardware Based,  USB, HDMI, Lightning Cable, etc. Physical Objects. **
 
 **PROTOCOL - **
 
