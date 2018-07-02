@@ -1,5 +1,5 @@
 ---
-title: HEX, Binary and Decimal
+title: GCSE - HEX, Binary and Decimal
 layout: post
 author: rory.collins
 permalink: /lessons-notes/
